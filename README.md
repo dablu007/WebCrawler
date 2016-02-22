@@ -21,8 +21,8 @@ To run the application in your system, just open the application in IntelliJ IDE
 or you can press options+shift+r
 or
 Running using command line
--> mvn exec:java -Dexec.mainClass="controller.CrawlerController"(Run the app)
 ->mvn compile(for compiling)
 ->mvn test (for compiling and  running the test only)
+-> mvn exec:java -Dexec.mainClass="controller.CrawlerController"(Run the app)
 
 

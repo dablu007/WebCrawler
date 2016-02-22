@@ -1,0 +1,3 @@
+http://localhost:63342/WebCrawler/pageToCrawl.html
+https://www.thoughtworks.com/about-us
+https://info.thoughtworks.com/graduates
